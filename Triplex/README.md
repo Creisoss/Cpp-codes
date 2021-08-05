@@ -11,7 +11,7 @@ but you increase the difficulty
 <img src="TripleX.gif" width="480" height="480">
 
 ## Running the game🎮
-You need to download the TripleX.c file and compile in a compiler of your preference,
+You need to download the TripleX.cpp file and compile in a compiler of your preference,
 If you are using ubuntu you can download the gcc/g++ compiler by putting the following command on terminal and hitting enter:
     
     $ sudo apt install g++
