@@ -1,2 +1,2 @@
 # Cpp-codes
-This repository contais c++ chalenges i did it before
+This repository contais small c++ projects!
